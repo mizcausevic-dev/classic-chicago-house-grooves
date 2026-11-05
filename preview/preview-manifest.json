@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/classic-chicago-house-grooves-simple-synth-preview.mp3",
+  "preview_sha256": "1ab90b1ba382fe89a52e40642bbc2c959f070b6c2a9282ca991a0dd5c1cbea1e",
+  "source_midi_path": "midi/z0101-classic-chicago-house-grooves-opening/z0101-classic-chicago-house-grooves-opening-combined.mid",
+  "source_midi_sha256": "161b4953b8202dd6097280d6c5b78286e8afa427bd95b1744481ee3f99f8a3c7",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "Per-voice synthesis and envelopes; summed samples are clamped to +/-0.95, converted to 16-bit stereo PCM and encoded to 192 kb/s MP3."
+  },
+  "selection": {
+    "study": "z0101",
+    "start_seconds": 0,
+    "end_seconds": 62.951
+  },
+  "measurement": {
+    "sample_peak": 0.127087,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

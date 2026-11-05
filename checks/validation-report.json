@@ -1,0 +1,189 @@
+{
+  "status": "PASS",
+  "run_time_utc": "2026-11-05T19:57:41.626413+00:00",
+  "tool": "validate_release.py with Python 3.14.0",
+  "files_checked": 28,
+  "errors": [],
+  "warnings": [],
+  "midi_files": [
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9f722f0bfaa8acb731502791a0bacaf286665876884acab5a242e8a60f9bc166",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "63d4b9ed86e4c2caa852e62e687d781a1338424c2d86f35dee7f62958350662d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "d1845e48cdc4a301f6688f73489f821710cef8753032c60706a1ec8a2bc4c224",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "ab472edcbcfa9b67dc9e5f17fca4da14f98381d018dfbe64784f2e4201cd039f",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/z0101-classic-chicago-house-grooves-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "161b4953b8202dd6097280d6c5b78286e8afa427bd95b1744481ee3f99f8a3c7",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "79eeec062d510fe414a01564f6bbe6da38143c85d6f345a1f49d1a0b1715305b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dd0416713e34ebbffc50bb213765d38aaeb2fc4e019594d33290be4a968a3669",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "db42fa50340f36de6be3834c46557575acdefe3f821ac6a4e6cb56d5a437ff83",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "f210735d930343025c09aa8160b60b7573f7b8b15d83ac66cd34d0938c9dff3b",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f706e74d6e86873e5034a26c221f7162ec40ca3404c1fdd37165e248fcb9b591",
+      "errors": []
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/z0102-classic-chicago-house-grooves-variation-combined.mid",
+      "bytes": 6018,
+      "sha256": "8d37ba6d687971ce90d275455820458ab842aa6c016dcf9aa41a1aa29c4715ca",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "40428836687cf470baf37b241ee8d3bf6132fdca3a28dac859a9493d3ef60254",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "430b528c77b0d33143dd31fc2a436288d92f6c850509b3efbfc514798e938ae2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "aa713cd13bb29e59eb7548368335a7008b12e15f42cca61055533d2000603940",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "4888a0e819aacf3adf6d66aea4e6eb7690f446382d0f539c44e3d24839317cb0",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c",
+      "errors": []
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/z0103-classic-chicago-house-grooves-contrast-combined.mid",
+      "bytes": 5986,
+      "sha256": "2debc1cda33a60aa5dc1ee71582e3fe39b8f26f10a2cd9c3e11cabfda56877c2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "e6fb477f0064ff9635db11c8d0e35f4407917bd95dbe185bcaf793926892d859",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6a40d96e186ee74805e65b9cb3d9ad769616b9f7ee4abd50562eea6e82288ef9",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "8141b4b52c12a4c3e4c7ac07b73520a92fe67bfe5636cf754067b6df5a9708ee",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "74380efdaea902832b6e24c3435d0401d4fec0d1e9dcbfb486e7df55f2ea2d3d",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2",
+      "errors": []
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/z0104-classic-chicago-house-grooves-return-combined.mid",
+      "bytes": 5986,
+      "sha256": "6faa0078e78e220d8737747f21719a1b592bc6d379c8e130e410e8a6ee5e76cc",
+      "errors": []
+    }
+  ],
+  "duplicate_review": [],
+  "negative_control": {
+    "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+    "expected_result": "rejected for same-pitch overlap",
+    "passed": true
+  },
+  "limitations": [
+    "Automated technical validation only.",
+    "Nobody auditioned these files.",
+    "Duplicate-motif review is bounded and not exhaustive copyright clearance."
+  ]
+}

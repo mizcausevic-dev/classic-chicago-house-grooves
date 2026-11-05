@@ -1,0 +1,26 @@
+{
+  "title": "Classic Chicago House Grooves",
+  "study": "z0101",
+  "bpm": 122,
+  "source_audio": "preview/classic-chicago-house-grooves-simple-synth-preview.mp3",
+  "source_audio_sha256": "1ab90b1ba382fe89a52e40642bbc2c959f070b6c2a9282ca991a0dd5c1cbea1e",
+  "source_midi": "midi/z0101-classic-chicago-house-grooves-opening/z0101-classic-chicago-house-grooves-opening-combined.mid",
+  "source_midi_sha256": "161b4953b8202dd6097280d6c5b78286e8afa427bd95b1744481ee3f99f8a3c7",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "1aade25bcdb687db7737d6e18ffd48369d586180f4a76ef9210174cb2404dd97",
+  "art_source_file": "art/hero.jpg",
+  "art_source_sha256": "6509c012a9c410cfe881fa540a0e0e6ebdb222bb6d9fcfbebc62e3b5cc7650bd",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/preview.mp4",
+  "video_sha256": "d07f1ff60187ff19d1b725924439894770b89ec4c70f679ef854457c0e0eb1d2",
+  "caption": "film/preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}

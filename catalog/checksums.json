@@ -1,0 +1,450 @@
+{
+  "algorithm": "SHA-256",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "art/cover-provenance.json",
+      "bytes": 266,
+      "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
+    },
+    {
+      "path": "art/cover.svg",
+      "bytes": 1939,
+      "sha256": "e0ddc59cee52ee525babf66f400151626f46f93e87631826cd87fb0541f69d13"
+    },
+    {
+      "path": "art/hero.jpg",
+      "bytes": 344801,
+      "sha256": "6509c012a9c410cfe881fa540a0e0e6ebdb222bb6d9fcfbebc62e3b5cc7650bd"
+    },
+    {
+      "path": "art/illustration-source.png",
+      "bytes": 2571846,
+      "sha256": "be0fe00112e7e34d4b95cd250763f4bec9f68e0a95c6f24259d9ae0ae73bad46"
+    },
+    {
+      "path": "art/image-prompt.txt",
+      "bytes": 311,
+      "sha256": "655790dacf46a392e5636026bd98a24474fc6abd5cfbe7a6c0b9bf9b95e5c26a"
+    },
+    {
+      "path": "art/raster-provenance.json",
+      "bytes": 500,
+      "sha256": "ccf7825c8a525ee694d07fbabc1ee6f1e8cf49d601288229bd9f297ac796114c"
+    },
+    {
+      "path": "art/square.jpg",
+      "bytes": 437667,
+      "sha256": "54e2f47d91ed96819bc4165b6fd765860fee3ca94fcc949ccbe1b9498d7433b8"
+    },
+    {
+      "path": "articles/medium-draft.md",
+      "bytes": 766,
+      "sha256": "a1f0de03fc1e92ac8e3c6d4769d71517cbc98f5e9ecc12a82927bb56e46fde84"
+    },
+    {
+      "path": "articles/medium-paste.txt",
+      "bytes": 766,
+      "sha256": "a1f0de03fc1e92ac8e3c6d4769d71517cbc98f5e9ecc12a82927bb56e46fde84"
+    },
+    {
+      "path": "catalog/clip-index.csv",
+      "bytes": 1844,
+      "sha256": "29a1c0ddf5c208e48205fc9f6aca8fb0c850a65776f63f059955d99e69777034"
+    },
+    {
+      "path": "catalog/drum-map.csv",
+      "bytes": 158,
+      "sha256": "ee5949764a6e42171b113a12ed1b18e3cb7f97fdcf48a545348cb8fdaf611c5c"
+    },
+    {
+      "path": "catalog/harmonic-events.csv",
+      "bytes": 25782,
+      "sha256": "539c2da9a4c312a77fa146bd1388006e4f9ac6bd173799cb8a0f4832fbb375f4"
+    },
+    {
+      "path": "catalog/note-events.csv",
+      "bytes": 103665,
+      "sha256": "1aade25bcdb687db7737d6e18ffd48369d586180f4a76ef9210174cb2404dd97"
+    },
+    {
+      "path": "catalog/patch-recipes.json",
+      "bytes": 1810,
+      "sha256": "80584fcd3db787802c3797409f4da4ac3b7179ec449a2829b7d85b2b349a6727"
+    },
+    {
+      "path": "catalog/release-spec.json",
+      "bytes": 2548,
+      "sha256": "281943ca783a0c0f5e6a665cc50c532759c82cbbb621dab6e87ff112e902c1c9"
+    },
+    {
+      "path": "catalog/structural-regions.csv",
+      "bytes": 816,
+      "sha256": "d2b9000f9954f55cf99fa8034d17c6803fc5625ffb5bfb798abd34dc465f6ee4"
+    },
+    {
+      "path": "catalog/study-index.csv",
+      "bytes": 1282,
+      "sha256": "933e69f83d337f813f79beee78132a568f4900c2cbcfea63bee5b49f0137968e"
+    },
+    {
+      "path": "checks/build-metadata.json",
+      "bytes": 397,
+      "sha256": "6f5bda4b32334d1984c87e4596a67f8220fdb011dee50dbd463ea221d3dae124"
+    },
+    {
+      "path": "checks/clip-validation.json",
+      "bytes": 309,
+      "sha256": "85425e84ad56b8ce2ee831fbea086f67539e9c2052c619055b1b8e99d8b9166e"
+    },
+    {
+      "path": "checks/fixtures/invalid-same-pitch-overlap.mid",
+      "bytes": 81,
+      "sha256": "a2ef8bc6788d0855501137ad5e74780a17cc8ca590989255ae63fa76996dd5a1"
+    },
+    {
+      "path": "checks/media-validation.json",
+      "bytes": 462,
+      "sha256": "96e442960d4e4ecb459c3eacba4abcd2a1b70cf47cd25c33dd86f20d6da3cdd1"
+    },
+    {
+      "path": "clips/z0101-melody-01.mid",
+      "bytes": 165,
+      "sha256": "c40e5b80e4564e39805c1e0be06e230a4b55ab7a727be606e4667fdb70789595"
+    },
+    {
+      "path": "clips/z0101-melody-02.mid",
+      "bytes": 165,
+      "sha256": "0f7316cf2fd74d5f2666dccd0b7ff1a5e94f06848ef2d0dcd35e70eb2ae4926a"
+    },
+    {
+      "path": "clips/z0101-melody-03.mid",
+      "bytes": 121,
+      "sha256": "d3122c573070fb29fcb8a85ce48be0bf2616bcb54e16d3caf28696bf4fb3551f"
+    },
+    {
+      "path": "clips/z0101-melody-04.mid",
+      "bytes": 121,
+      "sha256": "9021c1e9359fe8b7eb791fc51dda4ca3d09480b46ad0ecd635f538d6c58f6ce5"
+    },
+    {
+      "path": "clips/z0102-melody-01.mid",
+      "bytes": 164,
+      "sha256": "e3772511643c8291e630201f6f94c8be4fe310eb54a4db3538db987935f9e14b"
+    },
+    {
+      "path": "clips/z0102-melody-02.mid",
+      "bytes": 164,
+      "sha256": "aaa064b6505911f4183b05791e5045ccfb84eeee03b44c1fa1b1ba9474c2b828"
+    },
+    {
+      "path": "clips/z0102-melody-03.mid",
+      "bytes": 121,
+      "sha256": "3c9bcfc5ac45cb96f747cb440bbf4e748f85acc931cbc4a74de300941afc3caa"
+    },
+    {
+      "path": "clips/z0102-melody-04.mid",
+      "bytes": 121,
+      "sha256": "b61b6e7613895fb0923ae140754020833f7628e8dc2db1024538f19880349f8a"
+    },
+    {
+      "path": "clips/z0103-melody-01.mid",
+      "bytes": 165,
+      "sha256": "a95adfb1eaa50bd60eac595c4d3e1ce2ab2e574de36c6953a4ffdc319ae94d2c"
+    },
+    {
+      "path": "clips/z0103-melody-02.mid",
+      "bytes": 165,
+      "sha256": "edfc4e628a7bcf07529d4b05f205b48347fc8d2cd14f28dfe0da63de614ac3a5"
+    },
+    {
+      "path": "clips/z0103-melody-03.mid",
+      "bytes": 105,
+      "sha256": "418ebedc7e7d887780c14dc4d60ab3166bb69ac307bda1b3674e0eb0bfb86029"
+    },
+    {
+      "path": "clips/z0103-melody-04.mid",
+      "bytes": 105,
+      "sha256": "73032aa4970acb318e6e69a245b0ab9709c7d29a4c48438169159fa86d133041"
+    },
+    {
+      "path": "clips/z0104-melody-01.mid",
+      "bytes": 164,
+      "sha256": "195d0b1160b54f64aedae46e8bd5b68b01ebb304eea114fdede26e389c8cda36"
+    },
+    {
+      "path": "clips/z0104-melody-02.mid",
+      "bytes": 164,
+      "sha256": "29c6f647a8af39c2d43d2828eb4ee2f46724ea80735295050070eb253b1a60c7"
+    },
+    {
+      "path": "clips/z0104-melody-03.mid",
+      "bytes": 105,
+      "sha256": "b47709cc6b53dfdcdc7367c4526d13b772b7275c639fe18f6a5f34a5d44a381a"
+    },
+    {
+      "path": "clips/z0104-melody-04.mid",
+      "bytes": 105,
+      "sha256": "121867f9d768d1f08ef127c7a5cd39f7d0c954e7b5f09566c2444f23a9668987"
+    },
+    {
+      "path": "delivery.md",
+      "bytes": 451,
+      "sha256": "258131f2dc9a074701a39d41bc36ed59125f15f6c595774346eeffe481dc55a8"
+    },
+    {
+      "path": "downloads/classic-chicago-house-grooves-midi.zip",
+      "bytes": 32289,
+      "sha256": "662c2bbef61d501d953f2f9a26e6e476743be835dd783b7eb3be543d7abe6c6c"
+    },
+    {
+      "path": "film/motion-note-roll.png",
+      "bytes": 2831,
+      "sha256": "ffc5ff88f7effd6bd006b7c115d13c028b9871ae3268790bb0140b9012f4684d"
+    },
+    {
+      "path": "film/motion-overlay.png",
+      "bytes": 35134,
+      "sha256": "ef19d1e1bc93eaac958f6cc6a7441b3e3302911e5e26f0bd6fe9317521906025"
+    },
+    {
+      "path": "film/poster.jpg",
+      "bytes": 318801,
+      "sha256": "e45418419c3f952755c7a93197dbe7c73d8850df12b0fb75697f89cca0bdb675"
+    },
+    {
+      "path": "film/preview.mp4",
+      "bytes": 1282331,
+      "sha256": "d07f1ff60187ff19d1b725924439894770b89ec4c70f679ef854457c0e0eb1d2"
+    },
+    {
+      "path": "film/preview.vtt",
+      "bytes": 86,
+      "sha256": "66a3a5d04904c48ceef8c1eb6e0698d44a7ec9f80950e2cc21b7dc0f54c12fea"
+    },
+    {
+      "path": "film/video-manifest.json",
+      "bytes": 1250,
+      "sha256": "cc46b368fe49652e4af883446041b4bca7119965be4f89e778f48db995c5a943"
+    },
+    {
+      "path": "index.html",
+      "bytes": 10140,
+      "sha256": "deb002c335b510239ec28b5454b4d589dd1ffb482f93df0183a2afade9e09a11"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "9f722f0bfaa8acb731502791a0bacaf286665876884acab5a242e8a60f9bc166"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "63d4b9ed86e4c2caa852e62e687d781a1338424c2d86f35dee7f62958350662d"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "d1845e48cdc4a301f6688f73489f821710cef8753032c60706a1ec8a2bc4c224"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "ab472edcbcfa9b67dc9e5f17fca4da14f98381d018dfbe64784f2e4201cd039f"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "2af865fbe96dce1cb8dd01e13e1f58c8173cc7d007e5e335728db44f509ca1c7"
+    },
+    {
+      "path": "midi/z0101-classic-chicago-house-grooves-opening/z0101-classic-chicago-house-grooves-opening-combined.mid",
+      "bytes": 6018,
+      "sha256": "161b4953b8202dd6097280d6c5b78286e8afa427bd95b1744481ee3f99f8a3c7"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "79eeec062d510fe414a01564f6bbe6da38143c85d6f345a1f49d1a0b1715305b"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "dd0416713e34ebbffc50bb213765d38aaeb2fc4e019594d33290be4a968a3669"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/principal_motif.mid",
+      "bytes": 797,
+      "sha256": "db42fa50340f36de6be3834c46557575acdefe3f821ac6a4e6cb56d5a437ff83"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "f210735d930343025c09aa8160b60b7573f7b8b15d83ac66cd34d0938c9dff3b"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "f706e74d6e86873e5034a26c221f7162ec40ca3404c1fdd37165e248fcb9b591"
+    },
+    {
+      "path": "midi/z0102-classic-chicago-house-grooves-variation/z0102-classic-chicago-house-grooves-variation-combined.mid",
+      "bytes": 6018,
+      "sha256": "8d37ba6d687971ce90d275455820458ab842aa6c016dcf9aa41a1aa29c4715ca"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "40428836687cf470baf37b241ee8d3bf6132fdca3a28dac859a9493d3ef60254"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "430b528c77b0d33143dd31fc2a436288d92f6c850509b3efbfc514798e938ae2"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "aa713cd13bb29e59eb7548368335a7008b12e15f42cca61055533d2000603940"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "4888a0e819aacf3adf6d66aea4e6eb7690f446382d0f539c44e3d24839317cb0"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "1fb2a28cf458d205e8fb6e0c8e0e40762d68801af9aef3e73cc3c21049af003c"
+    },
+    {
+      "path": "midi/z0103-classic-chicago-house-grooves-contrast/z0103-classic-chicago-house-grooves-contrast-combined.mid",
+      "bytes": 5986,
+      "sha256": "2debc1cda33a60aa5dc1ee71582e3fe39b8f26f10a2cd9c3e11cabfda56877c2"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/chord_pulse.mid",
+      "bytes": 1256,
+      "sha256": "e6fb477f0064ff9635db11c8d0e35f4407917bd95dbe185bcaf793926892d859"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/counter_texture.mid",
+      "bytes": 134,
+      "sha256": "6a40d96e186ee74805e65b9cb3d9ad769616b9f7ee4abd50562eea6e82288ef9"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/drums.mid",
+      "bytes": 2986,
+      "sha256": "2ff321cf7f772140e5d335813212e4f4861c2ed14b7e27f1b90e1d4b45c39438"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/principal_motif.mid",
+      "bytes": 765,
+      "sha256": "8141b4b52c12a4c3e4c7ac07b73520a92fe67bfe5636cf754067b6df5a9708ee"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/sub_bass.mid",
+      "bytes": 821,
+      "sha256": "74380efdaea902832b6e24c3435d0401d4fec0d1e9dcbfb486e7df55f2ea2d3d"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/vocal_like_synth.mid",
+      "bytes": 104,
+      "sha256": "fbdf95f5941b392a2ae70d7d70ca32dc3c5b1f846a0e09a4b1dede8418d0adc2"
+    },
+    {
+      "path": "midi/z0104-classic-chicago-house-grooves-return/z0104-classic-chicago-house-grooves-return-combined.mid",
+      "bytes": 5986,
+      "sha256": "6faa0078e78e220d8737747f21719a1b592bc6d379c8e130e410e8a6ee5e76cc"
+    },
+    {
+      "path": "preview/classic-chicago-house-grooves-simple-synth-preview.mp3",
+      "bytes": 1524132,
+      "sha256": "1ab90b1ba382fe89a52e40642bbc2c959f070b6c2a9282ca991a0dd5c1cbea1e"
+    },
+    {
+      "path": "preview/preview-manifest.json",
+      "bytes": 1197,
+      "sha256": "8dc47d31b15371926978190407c37c79b8cb4af9f602ed18c247245cd05dd7a2"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4028,
+      "sha256": "915ba6b94b3417155ca1aad63b026e34d7b4f014c3951050c08f9ca75a423d20"
+    },
+    {
+      "path": "social/instagram/caption.txt",
+      "bytes": 232,
+      "sha256": "36be1da3c41c45cf33839daa7b637342f709d7a81c8a0e2492fe5d3e3a5a1854"
+    },
+    {
+      "path": "social/instagram/portrait.jpg",
+      "bytes": 456989,
+      "sha256": "69ff09190d32f93963dcfb829ef3df3992b2839ec703abadc6a89559ef54178e"
+    },
+    {
+      "path": "social/instagram/square.jpg",
+      "bytes": 399158,
+      "sha256": "c9b0878f7bde89dd058947f058a6fce782a46ae692fbfe6f83e276887e6a11a0"
+    },
+    {
+      "path": "social/x/card.jpg",
+      "bytes": 312977,
+      "sha256": "60ecf055e9a7d93a89c2b3babdb6b9b25b767b8643dabc0e5968051a57d73e66"
+    },
+    {
+      "path": "social/x/post.txt",
+      "bytes": 194,
+      "sha256": "4a6a9b956e0ad0337fc647d24ef99e1f553620a0093bf312bea9e66b6f9ec832"
+    },
+    {
+      "path": "tools/build_footwork.py",
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
+    },
+    {
+      "path": "tools/build_release.py",
+      "bytes": 147457,
+      "sha256": "97c986fb7994c8dd519b8f85696af96d32241a668111f4ffe4c3e2c241e1385c"
+    },
+    {
+      "path": "tools/polish_release.py",
+      "bytes": 7763,
+      "sha256": "b656e270626dcd22f2bff72dcc733516775299a975808bc7e674ca19c9a5219a"
+    },
+    {
+      "path": "tools/produce_clips.py",
+      "bytes": 13315,
+      "sha256": "3b90d8875e3e281a7f2e863b3ff6191bd3514b0c3b42bd1e2bb122ebcd9e0365"
+    },
+    {
+      "path": "tools/render_motion_preview.py",
+      "bytes": 7162,
+      "sha256": "e5269d02f53d5eb4c52d07826528ed8651ce8eea2a1d9ca495c440bb75e59791"
+    },
+    {
+      "path": "tools/validate_release.py",
+      "bytes": 13763,
+      "sha256": "c590a3c9e44249ddc1a2d14a048dea0f3e1ef0a232d3b86ea96a0f4eafeff6a5"
+    }
+  ]
+}
