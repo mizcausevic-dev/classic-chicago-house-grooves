@@ -198,8 +198,8 @@
     },
     {
       "path": "downloads/classic-chicago-house-grooves-midi.zip",
-      "bytes": 32289,
-      "sha256": "662c2bbef61d501d953f2f9a26e6e476743be835dd783b7eb3be543d7abe6c6c"
+      "bytes": 33276,
+      "sha256": "32e57ce6af2417519cc821126634bd70a1e4d32a2bbca2cba676f0b7cca6b6bf"
     },
     {
       "path": "film/motion-note-roll.png",
@@ -233,8 +233,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10140,
-      "sha256": "deb002c335b510239ec28b5454b4d589dd1ffb482f93df0183a2afade9e09a11"
+      "bytes": 10330,
+      "sha256": "97e6d9bce2e488c295662a20e23d969a29be94d1b4ed8e9f147300df79919b78"
     },
     {
       "path": "midi/z0101-classic-chicago-house-grooves-opening/chord_pulse.mid",
@@ -377,6 +377,11 @@
       "sha256": "6faa0078e78e220d8737747f21719a1b592bc6d379c8e130e410e8a6ee5e76cc"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "preview/classic-chicago-house-grooves-simple-synth-preview.mp3",
       "bytes": 1524132,
       "sha256": "1ab90b1ba382fe89a52e40642bbc2c959f070b6c2a9282ca991a0dd5c1cbea1e"
@@ -388,8 +393,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4034,
-      "sha256": "3d297e5b8a59c9dda1d316638c064f76a70ebd9c1c247a23bca2f0b4defb0768"
+      "bytes": 4149,
+      "sha256": "9a456c7c6497128fca8d97a054a12f95f4ec44e033ea68fea2027cb3a0a377fc"
     },
     {
       "path": "social/instagram/caption.txt",
